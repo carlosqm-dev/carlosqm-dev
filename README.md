@@ -1,5 +1,6 @@
 # 💫 Hey There:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+I'm a Full Stack developer with 1 year of experience. I design and build scalable systems aligned with business goals. I apply solid architectures and design patterns on the backend, and craft web interfaces focused on the user experience.
 
 
 ## 🌐 Socials:
