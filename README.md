@@ -1,19 +1,63 @@
-# 💫 Hey There:
+<div align="center">
 
-I'm a Full Stack developer with 1 year of experience. I design and build scalable systems aligned with business goals. I apply solid architectures and design patterns on the backend, and craft web interfaces focused on the user experience.
+# Hi, I'm Carlos Quiroz 👋
 
+### Full Stack Developer · Co-Founder at [Hydreon Studios](https://hydreon.com.co)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quirozcm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carlos.quiroz25@icloud.com) 
+I design and build scalable systems aligned with business goals, combining solid backend architecture with thoughtful user experiences.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=carlosqm-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=carlosqm-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=carlosqm-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Spanish: Native](https://img.shields.io/badge/Spanish-Native-38bdf8?style=for-the-badge)
+![English: A2](https://img.shields.io/badge/English-A2-2563eb?style=for-the-badge)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=carlosqm-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- I build full-stack products with a focus on maintainable architecture and meaningful user experiences.
+- I apply design patterns and clear boundaries to keep backend systems scalable.
+- I am co-founder of [Hydreon Studios](https://hydreon.com.co), a studio focused on custom web development, applications, and technology consulting.
+
+---
+<div align="center">
+
+## GitHub Overview
+
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosqm-dev&amp;theme=github_dark" alt="Carlos Quiroz's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosqm-dev&amp;theme=github_dark" alt="Most used languages across Carlos Quiroz's public repositories" />
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=carlosqm-dev&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="Carlos Quiroz's contribution activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=carlosqm-dev&amp;theme=github-dark-blue&amp;hide_border=true" alt="Carlos Quiroz's GitHub contribution streak" />
+
+  ---
+</div>
+
+<div align="center">
+
+## Skills
+
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,astro,fastapi,django,flask,postgresql,vercel,git&amp;perline=7" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Next.js, Astro, FastAPI, Django, Flask, PostgreSQL, Vercel, Git" />
+
+  ---
+</div>
+
+<div align="center">
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Quiroz-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/carlosqm)
+[![Instagram](https://img.shields.io/badge/Instagram-@quirozcm-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://instagram.com/quirozcm)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:carlos.quiroz25@icloud.com)
+[![Hydreon Studios](https://img.shields.io/badge/Hydreon_Studios-Visit_website-06B6D4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)](https://hydreon.com.co)
+
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=carlosqm-dev&amp;color=0ea5e9&amp;style=flat-square&amp;label=Profile+views)
+
+</div>
