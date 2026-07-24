@@ -11,7 +11,6 @@ I design and build scalable systems aligned with business goals, combining solid
 
 </div>
 
----
 
 ## About Me
 
@@ -19,7 +18,6 @@ I design and build scalable systems aligned with business goals, combining solid
 - I apply design patterns and clear boundaries to keep backend systems scalable.
 - I am co-founder of [Hydreon Studios](https://hydreon.com.co), a studio focused on custom web development, applications, and technology consulting.
 
----
 <div align="center">
 
 ## GitHub Overview
@@ -35,7 +33,6 @@ I design and build scalable systems aligned with business goals, combining solid
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=carlosqm-dev&amp;theme=github-dark-blue&amp;hide_border=true" alt="Carlos Quiroz's GitHub contribution streak" />
 
-  ---
 </div>
 
 <div align="center">
@@ -44,7 +41,6 @@ I design and build scalable systems aligned with business goals, combining solid
 
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,astro,fastapi,django,flask,postgresql,vercel,git&amp;perline=7" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Next.js, Astro, FastAPI, Django, Flask, PostgreSQL, Vercel, Git" />
 
-  ---
 </div>
 
 <div align="center">
